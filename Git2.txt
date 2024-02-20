@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 news 1
 =======
 news 2
->>>>>>> Master2
+
