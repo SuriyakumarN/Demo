@@ -2,7 +2,7 @@
 news 2 323
 
 
-news 1
+news 1s
 
 news 2
 
